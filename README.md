@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">A passionate Full Stack developer from New York</h3>
+<p align="center">I'm a Full Stack developer from New York, who is passionate about building webApps. Some language I work with are JavaScript, React, css, and Html. I enjoy learning more about code, and hope to further my knowledge within my Field. I also have learned to use Python and plan on furthering my knowledge with the language. </p>
 
 - 🔭 I’m currently learning computer science in python.
 
