@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
 <h3 align="center">A passionate Full Stack developer from New York</h3>
 
+- 🔭 I’m currently learning computer science in python.
+
+- 👨‍💻 All of my projects are available at [tbd](tbd)
+
+- 💬 Ask me about **JavaScript, React, and Redux**
+
 - 📫 How to reach me **corchadojason@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jason-corchado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jason-corchado/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jason-corchado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jason-corchado" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jasoncorchado&show_icons=true&locale=en&layout=compact" alt="jasoncorchado" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasoncorchado&show_icons=true&locale=en" alt="jasoncorchado" /></p>
-
